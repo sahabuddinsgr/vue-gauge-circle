@@ -1,0 +1,24 @@
+#app {
+    max-width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header {
+    padding-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.vue-echart {
+    gap: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.vue-echart .vue-circle-progresbar {
+    flex: 1 1 120px;
+    display: flex;
+    justify-content: center;
+}
