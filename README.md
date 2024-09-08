@@ -22,12 +22,12 @@ Unlock the potential of your user interfaces with CircleProgress and make your a
 ## Installation
 
 ```
-npm install --save vue-circle-progress
+npm install --save vue-gauge-circle
 ```
 ## Adding into app
 
 ```
-import { CircleProgress } from 'vue-circle-progress';
+import { CircleProgress } from "vue-gauge-circle";
 
 <CircleProgress 
     :progressValue="70"
