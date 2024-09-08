@@ -1,5 +1,6 @@
 <script setup>
     import CircleProgress from './components/CircleProgress.vue'
+    // import { CircleProgress } from "vue-gauge-circle";
 </script>
 
 <template>
