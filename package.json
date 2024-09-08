@@ -1,6 +1,6 @@
 {
   "name": "vue-circle-progress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elevate your Vue 3 applications with CircleProgress, a beautifully designed and highly customizable circular progress bar component.",
   "private": false,
   "author": "Md Sahabuddin <sahabuddinsgr@gmail.com> (https://github.com/sahabuddinsgr)",
