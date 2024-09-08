@@ -1,5 +1,5 @@
 {
-  "name": "vue-circle-progress",
+  "name": "vue-gauge-circle",
   "version": "1.0.1",
   "description": "Elevate your Vue 3 applications with CircleProgress, a beautifully designed and highly customizable circular progress bar component.",
   "private": false,
@@ -35,9 +35,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sahabuddinsgr/vue-circle-progress.git"
+    "url": "git+https://github.com/sahabuddinsgr/vue-gauge-circle.git"
   },
-  "homepage": "https://github.com/sahabuddinsgr/vue-circle-progress#readme",
+  "homepage": "https://github.com/sahabuddinsgr/vue-gauge-circle#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
